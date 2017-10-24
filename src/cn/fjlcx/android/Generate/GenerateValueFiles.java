@@ -15,7 +15,7 @@ public class GenerateValueFiles {
 	private final static String HTemplate = "<dimen name=\"y{0}\">{1}px</dimen>\n";
 	
 	private final static String WTemplate2 = "<dimen name=\"x{0}\">{1}dp</dimen>\n";
-	private final static String HTemplate2 = "<dimen name=\"y{0}\">{1}px</dimen>\n";
+	private final static String HTemplate2 = "<dimen name=\"y{0}\">{1}dp</dimen>\n";
 
 	/**
 	 * {0}-HEIGHT
